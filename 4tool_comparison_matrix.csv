@@ -1,5 +1,5 @@
-Tool,Task 1 (Summarise),Task 1 Reasoning,Task 2 (Code),Task 2 Reasoning,Task 3 (Reason),Task 3 Reasoning,Overall Verdict
-ChatGPT,4,"Clean structure, preserved 4/5 key claims, one bullet exceeded 15 words slightly",4,"Readable code, good keyword matching, docstring included, standard library only",4,"Step-by-step reasoning clear, correct answer (8:10 AM), well-explained with confidence",All-rounder. Best default choice for general tasks and well-structured responses.
-Claude,5,"All 5 key claims preserved with nuance, perfect 15-word limit adherence, exceptional quality",4,"Thorough explanation with edge cases, slightly over-engineered but excellent readability",5,"Most transparent reasoning, showed every step explicitly, correct answer with caveats",Best for thorough writing, careful reasoning, and high-stakes documentation.
-Gemini,4,"Good numeric facts preservation (60%, 35%), slightly curt style, all bullets under limit",3,"Concise approach, BUT suggested sklearn despite standard library constraint (violation)",3,"Dropped one step in timing chain, correct final answer but reasoning incomplete",Good for quick factual queries. Needs constraint awareness for code tasks.
-Perplexity,4,"Added external source citations, verified against article, inline references strong",3,"Good approach with StackOverflow citation, shorter code than others",2,"Treated as research task rather than reasoning, weaker at pure logic",Best when factual accuracy and citations matter. Weakest for pure reasoning tasks.
+Tool,Task 1 Score,Task 2 Score,Task 3 Score,Overall Verdict
+ChatGPT,4,4,4,"All-rounder. Best for fast, well-structured responses."
+Claude,5,4,5,"Best for careful reasoning and high-stakes writing."
+Gemini,4,3,3,"Good for quick facts; weaker on constraints."
+Perplexity,4,3,2,"Best for cited sources and factual verification."
