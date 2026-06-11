@@ -17,3 +17,5 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
 ![Groq first call](groq_first_call.png)
+
+## Day 2 - 
