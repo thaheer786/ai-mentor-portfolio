@@ -3,15 +3,3 @@ ChatGPT,4,4,4,"All-rounder. Best for fast, well-structured responses."
 Claude,5,4,5,"Best for careful reasoning and high-stakes writing."
 Gemini,4,3,3,"Good for quick facts; weaker on constraints."
 Perplexity,4,3,2,"Best for cited sources and factual verification."
-
-
-Task,Category,ChatGPT,Claude,Gemini,Perplexity
-Task 1: Summarise,Strengths,Clean structure; balanced coverage; conversational tone,All 5 key claims preserved; perfect 15-word limit; exceptional nuance,Good numeric facts (60%); concise style; all bullets under limit,External source citations; verified against article; strong credibility
-Task 1: Summarise,Weaknesses,One bullet slightly over 15 words; may skip minor stats,None significant,Slightly curt; limited explanation,Sometimes adds external sources (distracting)
-Task 1: Summarise,Score,4/5,5/5,4/5,4/5
-Task 2: Code,Strengths,Readable keyword matching code; good docstring; standard library only,Thorough with edge cases; excellent readability; well-structured,Concise approach; clean code style,Good approach with source citations
-Task 2: Code,Weaknesses,None major,"Slightly over-engineered for the prompt","Suggested sklearn despite standard library constraint (VIOLATION)",Shorter code; less complete than others
-Task 2: Code,Score,4/5,4/5,3/5,3/5
-Task 3: Reason,Strengths,Step-by-step clear; correct answer (8:10 AM); confident explanation,Most transparent chain-of-thought; showed every step; correct answer,Correct final answer,N/A
-Task 3: Reason,Weaknesses,None significant,Verbose; goes on too long,Dropped one timing step; incomplete reasoning,Treats as research task; weak at pure reasoning
-Task 3: Reason,Score,4/5,5/5,3/5,2/5
