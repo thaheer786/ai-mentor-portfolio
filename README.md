@@ -28,7 +28,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
   - Task 2: Code correctness, readability, standard library constraint
   - Task 3: Logic accuracy, reasoning transparency, confidence calibration
 
-- ✅ **3-sentence conclusion documented** (above + in [Day1_Setup.ipynb](Day1_Setup.ipynb))
+- ✅ **3-sentence conclusion documented** (above + in [detailed_reasoning.csv](detailed_reasoning.csv))
 
 - ✅ **Pushed to public GitHub repo** 
   - Repository: [https://github.com/thaheer786/ai-mentor-portfolio](https://github.com/thaheer786/ai-mentor-portfolio)
@@ -36,7 +36,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 
 ### Lab Materials
 
-- [Day1_Setup.ipynb](Day1_Setup.ipynb) — Complete notebook with matrix analysis
+- [detailed_reasoning.csv](detailed_reasoning.csv) — Complete notebook with matrix analysis
 - [4tool_comparison_matrix.csv](4tool_comparison_matrix.csv) — Structured scoring data
 - [README.md](README.md) — This file with verdicts and acceptance checks
 
@@ -46,7 +46,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 ## Day 2 — Setup1 complete
 
 - ✅ Google AI Studio API key provisioned
-- ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
+- ✅ Hello-Gemini call working — see [Day2_Setup.ipynb](Day2_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 - 
 ![Gemini first call](gemini_first_call.png)
@@ -54,7 +54,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 ## Day 2 — Setup2 complete
 
 - ✅ Groq API key provisioned
-- ✅ Hello-Groq call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
+- ✅ Hello-Groq call working — see [Day2_Setup.ipynb](Day2_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
 ![Groq first call](groq_first_call.png)
